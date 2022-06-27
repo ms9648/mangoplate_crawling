@@ -1,1 +1,1 @@
-# mangoplate_crawling
+# 망고플레이트 웹사이트 크롤링
